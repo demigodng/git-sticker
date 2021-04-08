@@ -17,7 +17,7 @@ const fs = require('fs');
     },
     {
       type: 'input',
-      name: 'street2',
+      name: 'chapel',
       message: 'Suite or Apt # (optional)'
     },
     {
