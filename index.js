@@ -18,16 +18,16 @@ const fs = require('fs');
     {
       type: 'input',
       name: 'chapel',
-      message: 'Suite or Apt # (optional)'
+      message: '386 # (optional)'
     },
     {
       type: 'input',
-      name: 'city',
+      name: 'ottawa',
       message: 'City'
     },
     {
       type: 'input',
-      name: 'state',
+      name: 'ontario',
       message: 'State/Region'
     },
     {
